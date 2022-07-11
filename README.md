@@ -4,9 +4,14 @@
 
 # 1. 면접 예상 질문 및 답변 모음
 
-- [면접 예상 질문 및 답변 - 직무별 전체](/01.interview_QnA/)
+- [면접 예상 질문 및 답변 - 직무별 전체](/01.interview_QnA/01.Role_Based/)
 
-- [면접 예상 질문 및 답변 - 직무별 (1) 솔루션즈 아키텍트(Solutions Architect)](/01.interview_QnA/01.Solutions_Architect.md)
+- [면접 예상 질문 및 답변 - 직무별 (1) 솔루션즈 아키텍트(Solutions Architect)](/01.interview_QnA/01.Role_Based/01.Solutions_Architect.md)
+
+- [면접 예상 질문 및 답변 - 기업별 전체](/01.interview_QnA/02.Company_Based/)
+
+- [면접 예상 질문 및 답변 - 기업별 (1) AWS Korea](/01.interview_QnA/02.Company_Based/01.AWS_Korea.md)
+
 
 # 2. 참고 자료 모음
 
